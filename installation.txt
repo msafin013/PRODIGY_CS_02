@@ -1,0 +1,10 @@
+Clone the file
+               :  git clone http://github.com/MidhunNochi/PRODIGY_CS_02.git
+
+Change to the directory:  
+               :   cd PRODIGY_CS_02
+               
+Bash 
+    pip install Pillow               
+
+You can use the tool here to encrypt and decrypt images with simple maniipulation 
